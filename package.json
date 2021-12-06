@@ -1,6 +1,6 @@
 {
   "name": "cstrategy",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "component version strategy",
   "main": "index.js",
   "scripts": {
