@@ -1,0 +1,19 @@
+{
+  "name": "cstrategy",
+  "version": "1.0.0",
+  "description": "component version strategy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umarmw/cstrategy.git"
+  },
+  "author": "Umar Waliyullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umarmw/cstrategy/issues"
+  },
+  "homepage": "https://github.com/umarmw/cstrategy#readme"
+}
