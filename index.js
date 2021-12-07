@@ -1,2 +1,2 @@
-// This is a dummy entry file
-console.log("Welcome!")
+const package = require("./package.json");
+console.log(`Current package version is:  ${package.version} \n`);
